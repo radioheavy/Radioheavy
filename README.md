@@ -1,10 +1,11 @@
 # Hi there, I'm RadioHeavy - Oktay
 ---
+
 ## Who Am I:
 
--I started my business life in D&R company affiliated to Turkuvaz media group. 
--I became the Store Manager in a short time. 
--I completed the Bilge Adam Academy Software .Net Training Program course.
+- I started my business life in D&R company affiliated to Turkuvaz media group. 
+- I became the Store Manager in a short time. 
+- I completed the Bilge Adam Academy Software .Net Training Program course.
 ---
 ## I'm FullStack .NET Developer!!
 
