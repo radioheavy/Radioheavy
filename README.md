@@ -3,9 +3,9 @@
 ## I'm FullStack .NET Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play video games
+- 👯 I want to collaborate with other people who are new to software
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: I love to write and play video games
 ---
 ### Connect with me:
 
