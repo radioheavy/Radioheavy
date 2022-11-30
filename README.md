@@ -1,6 +1,6 @@
 # Hi there, I'm RadioHeavy - Oktay
 ---
-##Who Am I=
+## Who Am I:
 
 -I started my business life in D&R company affiliated to Turkuvaz media group. 
 -I became the Store Manager in a short time. 
