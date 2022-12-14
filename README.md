@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to collaborate with other people who are new to software
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about Python and Java
 - ⚡ Fun fact: I love to write and play video games
 ---
 ### Connect with me:
